@@ -1,3 +1,3 @@
 # A domain adaptive deep learning solution for scanpath prediction
 
-Code will be available soon. 
+Code for paper will be available soon. 
